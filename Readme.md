@@ -16,3 +16,5 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- Nova página de productes accesible desde el directori /html
+- Mostra informació bàsica sobre els productes oferids
